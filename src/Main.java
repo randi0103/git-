@@ -5,5 +5,6 @@ public class Main {
         System.out.println("hellow world!3");
         System.out.println("hellow world!4");
         System.out.println("maseter!");
+        System.out.println("hot-fix");
     }
 }
